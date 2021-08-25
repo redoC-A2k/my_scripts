@@ -1,4 +1,5 @@
 #!/bin/sh
+#location of this file was ~/bin/notify_batter_status.sh
 
 base_dir='/sys/class/power_supply/BAT1'
 
