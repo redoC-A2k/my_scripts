@@ -9,7 +9,7 @@
 
 switchto=9
 playfor_min="30"
-playfor_max="42"
+playfor_max="60"
 actionafter_max="10"
 actionafter_min="3"
 wait_for_video_to_load="2"
