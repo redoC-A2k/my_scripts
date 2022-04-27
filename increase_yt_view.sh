@@ -2,6 +2,7 @@
 # If you want to use this script to increase your views for youtube and earn , then this just adds your own view not viewed by other people and youtube considers views by others too for payment
 # If you want to use this make sure to install xdotool firefox wmctrl and then change youtube url with the yt video you want to increase view with and the title of that video
 # This scipt opens two firefox browser windows on first run one with your youtube video you want to increase views of (please don't open any tab on this window as I am only able to select window based on title and the title of firefox is the title of webpage which in this case would be title of your youtube video) and on other window you can do any other work or close that
+# This script assumes you are connected to internet .
 
 
 switchto=9
