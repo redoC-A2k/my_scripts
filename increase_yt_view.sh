@@ -4,6 +4,8 @@
 # This scipt opens two firefox browser windows on first run one with your youtube video you want to increase views of (please don't open any tab on this window as I am only able to select window based on title and the title of firefox is the title of webpage which in this case would be title of your youtube video) and on other window you can do any other work or close that
 # This script assumes you are connected to internet .
 
+#----------- I am not responsible if your video gets removed from youtube or your channel gets deleted from youtube use on your own responsiblity -----
+
 
 switchto=9
 playfor_min="30"
